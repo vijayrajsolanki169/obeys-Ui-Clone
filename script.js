@@ -63,7 +63,7 @@ function loadingAnimation() {
                 } else {
                     H5timer.innerHTML = gro;
                 }
-            }, 35);
+            }, 28);
         }
     });
 
